@@ -62,7 +62,8 @@ valuepick:
 	default:
 		cout << "Error.\n";
 		system("pause");
-		goto valuepick;
+		goto valuepick;\
+		cout<<"addition of two numbers:"<<a+b<<endl;
 	}
 
 
