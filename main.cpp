@@ -17,10 +17,10 @@ int main()
 	Sleep(1000);
 	system("cls");
 	goto valuepick;
-
+        
 valuepick:
 
-
+cout<< "addition of two numbers is :" << "a+b" << endl;
 	cout << "Num 1:\n";
 	cin >> num1;
 
